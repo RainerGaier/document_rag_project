@@ -139,28 +139,3 @@ This project is licensed under the MIT License — see `LICENSE` file for detail
 ```
 
 ---
-
-# 📢 Few Notes:
-
-- If you want, I can also generate **badges** (Python version, Streamlit version, License badge).
-- We can also add an automatic **Screenshots section** if you want later!
-
----
-
-# 🎯 Next Actions:
-
-| Step | Action |
-|:---|:---|
-| 1 | Copy this `README.md` |
-| 2 | Paste it into your project root |
-| 3 | Add + commit it (`git add README.md && git commit -m "Add README.md" && git push`) |
-
----
-
-✅  
-Would you also like a **bonus upgrade** after this?  
-(Like: Quick badges, or a nice screenshot placeholder at the top?) 🎨🚀
-
-Just say:  
-**"Yes, badges please"** if you want it!  
-Or **"Yes, screenshot too"** if you want both! 🚀
