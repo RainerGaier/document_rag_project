@@ -1,0 +1,17 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+
+# Streamlit temp files
+.streamlit/
+
+# Scratch uploads
+scratch/*
+!scratch/.gitkeep
+
+# Misc
+*.log
